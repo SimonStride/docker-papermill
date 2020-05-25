@@ -1,2 +1,2 @@
 # docker-papermill
-Prebuild docker image containing Papermill and Python3
+Prebuilt docker image containing Papermill and Python3
